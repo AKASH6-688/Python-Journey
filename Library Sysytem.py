@@ -47,3 +47,4 @@ class Library:
 
 Library()
 compare_books = Library.compare_books
+
